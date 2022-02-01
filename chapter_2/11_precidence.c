@@ -5,11 +5,13 @@ int main(){
     // Operator precidence
 
     float rahul;
+
+
     rahul = 3/3 * 4 +2;
     // bodmas
 
     float vishal;
-    vishal = 3.0* 3 / 4 +2;
+    vishal = 3.0 * 3 / 4 +2;
     printf("The value is : %f\n",rahul);
     printf("The value is : %f\n",vishal);
 

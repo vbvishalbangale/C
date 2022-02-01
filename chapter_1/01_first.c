@@ -14,6 +14,6 @@ int main(){
 
     printf("Show the total value :%f", vishal-rahul);
 
-
+ 
     return 0;
 }

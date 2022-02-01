@@ -3,6 +3,7 @@
 int main(){
 
     // circle area = Pi * r * r
+    // cylinder volume = Pi * r * r * h //?(h for height , r for radius)
     float PI = 3.14159265;
     float radius;
     float height;

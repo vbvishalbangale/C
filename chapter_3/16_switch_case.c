@@ -15,6 +15,7 @@ int main(){
         case 1:
         printf("You select 1 star rating\n");
         break;
+
         case 2:
         printf("You select 2 star rating\n");
         break;

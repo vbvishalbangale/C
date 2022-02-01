@@ -23,9 +23,9 @@ int main(){
     // Logical Operators
     // && (logical and) operator : ? is ko chahiye dono condition true tab hi answer true aayega
     // || (logical or) operator : ? is ko chahiye koi bhi ek condition true
-    // ! (logical not) operator : ? ye condition ko ulta karta hai
+    // ! (logical not) operator : ? ye andar ke logic ko ulta karta hai
 
-    if(!(age == 18)){
+    if(age >= 18){
         // agar condition true hai 
         // to if ke andar ka masala execute hoga
         printf("Me 18 saal ka ya usse bada hu");

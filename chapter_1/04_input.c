@@ -16,7 +16,7 @@ int main()
 
 // keywords : aise words jo c language ne khud ke liye rakhe hai
 // in words ko hum variable name ko banane ke liye use nahi kar sakte
-// eg., int void;
+// eg., int void; --> //! ye invalid hai
 
     return 0;
 }

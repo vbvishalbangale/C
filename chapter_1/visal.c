@@ -1,12 +1,11 @@
 #include <stdio.h>
 
-#include <stdio.h>
 
 int main(){
 
     int vishal = 10;
 
-    float rahul = 10.10;
+    float shoeb = 10.10;
 
     char gourav ='v';
 
@@ -14,7 +13,7 @@ int main(){
 
 
     printf("your number is %d:\n",vishal);
-    printf("your number is %f:\n", rahul);
+    printf("your number is %f:\n", shoeb);
     printf("your number is %c:\n",gourav);
     printf("your number is %lf:\n",chetana);
     return 0;

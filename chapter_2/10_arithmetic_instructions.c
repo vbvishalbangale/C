@@ -7,7 +7,7 @@ int main()
     // make a program to calculate +,-,*,/,% of two numbers
     // int a =3;int b=3;
 
-    // modulo operator % = ye humko remender return karta hai
+    // ? modulo operator % = ye humko remender return karta hai
 
     // 10/10 = 0 
 
@@ -21,7 +21,7 @@ int main()
     printf("The subtract is : %d\n", num1 - num2);
     printf("The multiply is : %d\n", num1 * num2);
     printf("The devide is : %d\n", num1 / num2);
-    printf("The modulo is : %d\n", num1 % num2);
+    printf("The remender is : %d\n", num1 % num2);
 
     return 0;
 }

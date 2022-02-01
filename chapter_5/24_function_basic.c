@@ -1,13 +1,12 @@
 #include <stdio.h>
 
 
-void display(); // Function Prototype -->? matlab compiler ko batana kya hum konsa function banane wale hai
+void display(); // Function Prototype --> //? matlab compiler ko batana kya hum konsa function banane wale hai
 
 
 int main(){
 
-display(); // function call --> jitne baar call karege utni baar 
-// uske andar ka code execute hoga
+display(); // function call --> //? jitne baar call karege utni baar uske andar ka code execute hoga
 display();
 display();
 display();
